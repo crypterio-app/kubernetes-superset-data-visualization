@@ -29,7 +29,7 @@ module "minio" {
   depends_on = [module.nginx]
 }
 
-module "milvus" {
+module "superset" {
   source = "./modules/milvus"
   depends_on = [module.minio]
 }
