@@ -1,10 +1,9 @@
-<img width="2280" height="1314" alt="milvus_architecture_2_6" src="https://github.com/user-attachments/assets/ba441f65-3fd0-47bb-990a-8b756fd34cd5" />
+![maxresdefault](https://github.com/user-attachments/assets/ffd3df8a-98d7-4358-a040-ccf3fc265aaa)
 
 
-## Milvus | Kubernetes ☸️
-Milvus is a high-performance vector database built for scale. It powers AI applications by efficiently organizing and searching vast amounts of unstructured data, such as text, images, and multi-modal information.
 
-Milvus is designed to handle vector search at scale. It stores vectors, which are learned representations of unstructured data, together with other scalar data types such as integers, strings, and JSON objects. Users can conduct efficient vector search with metadata filtering or hybrid search. Here are why developers choose Milvus as the vector database for AI applications:
+## SuperSet | Kubernetes ☸️
+Superset is a modern data exploration and data visualization platform. Superset can replace or augment proprietary business intelligence tools for many teams. Superset integrates well with a variety of data sources.
 
 
 #### 🎯 Key Features:
